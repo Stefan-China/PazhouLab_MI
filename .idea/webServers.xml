@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="25611943-7a39-4531-b13b-beec461eba29" name="Pazhoulab_MI">
+        <fileTransfer rootFolder="/home/caixugang" accessType="SFTP" host="10.10.40.248" port="22" sshConfigId="2affba30-1062-4218-a167-09f580db4252" sshConfig="caixugang@10.10.40.248:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
